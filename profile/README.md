@@ -9,11 +9,5 @@
 
 <h2 style="text-align: center">Qual o objetivo da organização?</h2>
 <p style="text-align: center">
-    Essa organização tem como objetivo apenas reunir os projetos que realizamos de maneira conjunta durante a nossa graduação, como uma maneira de manter um histórico de tudo oque fazemos.
-</p>
-
-
-<h2 style="text-align: center">Observações</h2>
-<p style="text-align: center">
-    Nem todos os repositórios da organização estão públicos. Os repositórios se tornam públicos conforme o grupo vai finalizando os projetos.
+    Essa organização tem como objetivo apenas reunir os projetos que realizamos de maneira conjunta durante a nossa graduação, como uma maneira de manter um histórico de tudo oque fizemos.
 </p>
