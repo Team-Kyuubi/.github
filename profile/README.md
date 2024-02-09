@@ -4,10 +4,10 @@
 
 <h2 style="text-align: center">Quem somos?</h2>
 <p style="text-align: center">
-    Somos um grupo de estudantes de Análise e Desenvolvimento de Sistemas cursando o 5° período da graduação.
+    Somos um grupo de desenvolvedores formados em Análise e Desenvolvimento de Sistemas pelo SENAI/SC.
 </p>
 
 <h2 style="text-align: center">Qual o objetivo da organização?</h2>
 <p style="text-align: center">
-    Essa organização tem como objetivo apenas reunir os projetos que realizamos de maneira conjunta durante a nossa graduação, como uma maneira de manter um histórico de tudo oque fizemos.
+    Essa organização tem como objetivo reunir os projetos que realizamos de maneira conjunta durante a nossa graduação, como uma maneira de manter um histórico de tudo oque fizemos.
 </p>
